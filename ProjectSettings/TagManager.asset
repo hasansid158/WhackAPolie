@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - mole
+  - ss
+  - hornS
+  - rankText
+  - scoreTxt
+  - gauge
+  - heart
+  - heartB
+  - uiObjs
+  - uiCanvas
+  - firstSeg
+  - gOver
+  - scripts
+  - lightning
+  - pauseCan
+  - fader
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: up
+    uniqueID: 2720980491
+    locked: 0
+  - name: mid
+    uniqueID: 1548913113
+    locked: 0
+  - name: low
+    uniqueID: 1038717919
+    locked: 0
